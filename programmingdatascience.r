@@ -1,7 +1,7 @@
 "     Soal dari Skill Academy Ruangguru
       Course: Programming Foundation for Data Science
       Unduh file dataset csv di: https://tinyurl.com/assessmentrnpy 
-      Coding from Azka Muhammad Al Fisyahri (@azkamuhamco. Selesai pada Kamis, 2 April 2020       "
+      Coding from Azka Muhammad Al Fisyahri (@azkamuhamco). Selesai pada Kamis, 2 April 2020       "
 
 #Jalankan script install packages jika belum install packages
 #install.packages(dplyr)
